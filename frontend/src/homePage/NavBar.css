@@ -1,0 +1,11 @@
+/* Add a black background color to the top navigation */
+.navBar {
+    background-color: #5A90A1;
+    overflow: hidden;
+    display:flex;
+    justify-content:flex-end;
+    padding:10px 0;
+    position: fixed;
+    top:0;
+    width:100%;
+  }
